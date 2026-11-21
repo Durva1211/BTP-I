@@ -1,0 +1,287 @@
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/2.0  stop=front at z=-0.0 mm (dia 12.5 mm)
+  S1: R=   14.5403  t= 7.5092  -> N-BAK4
+  S2: R=   -9.0275  t= 3.3215  -> N-F2
+  S3: R=   14.5736  t= 2.8687  -> air
+  S4: R=   39.7597  t=  4.043  -> N-LASF9
+  S5: R=  -27.5391  t=  16.68  -> air
+  sigma (geo, px) centre/edge/corner = 2.612/3.145/5.68  defocus 38.5 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/2.4  stop=front at z=-0.0 mm (dia 10.42 mm)
+  S1: R=   12.6171  t=  5.972  -> N-BAK4
+  S2: R=   -7.9742  t=  2.579  -> N-F2
+  S3: R=   13.0858  t= 2.5558  -> air
+  S4: R=   63.9014  t= 2.9294  -> N-LASF9
+  S5: R=  -23.6136  t=  17.84  -> air
+  sigma (geo, px) centre/edge/corner = 1.986/2.262/4.381  defocus 25.1 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/2.8  stop=front at z=-0.0 mm (dia 8.93 mm)
+  S1: R=   11.7022  t= 6.5018  -> N-BAK4
+  S2: R=    -6.836  t= 1.4878  -> N-F2
+  S3: R=   12.4979  t= 2.3583  -> air
+  S4: R=  116.4595  t= 2.4649  -> N-LASF9
+  S5: R=  -21.0728  t=   17.9  -> air
+  sigma (geo, px) centre/edge/corner = 1.682/1.756/3.666  defocus 21.6 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/3.2  stop=front at z=-0.09 mm (dia 7.81 mm)
+  S1: R=   11.1869  t= 6.5509  -> N-BAK4
+  S2: R=     -6.25  t=  1.006  -> N-F2
+  S3: R=    12.139  t= 2.2259  -> air
+  S4: R=  245.8893  t= 2.2037  -> N-LASF9
+  S5: R=  -19.6935  t=  18.04  -> air
+  sigma (geo, px) centre/edge/corner = 1.515/1.384/3.136  defocus 12.3 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/3.6  stop=front at z=-0.98 mm (dia 6.94 mm)
+  S1: R=   10.7719  t= 5.8972  -> N-BAK4
+  S2: R=     -6.25  t=    1.0  -> N-F2
+  S3: R=    11.555  t= 2.1898  -> air
+  S4: R=  186.4991  t= 2.1313  -> N-LASF9
+  S5: R=   -20.149  t=  18.43  -> air
+  sigma (geo, px) centre/edge/corner = 1.498/1.162/2.768  defocus -9.9 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=25 f/4.0  stop=front at z=-1.55 mm (dia 6.25 mm)
+  S1: R=   10.5392  t= 5.5231  -> N-BAK4
+  S2: R=     -6.25  t=    1.0  -> N-F2
+  S3: R=   11.2321  t= 2.1312  -> air
+  S4: R=  166.1398  t= 2.0638  -> N-LASF9
+  S5: R=  -20.3711  t=  18.68  -> air
+  sigma (geo, px) centre/edge/corner = 1.414/1.022/2.484  defocus -19.8 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/2.0  stop=front at z=-0.0 mm (dia 15.0 mm)
+  S1: R=   14.3386  t=    8.0  -> N-BAK4
+  S2: R=  -13.5497  t= 1.0386  -> N-F2
+  S3: R=   13.3372  t= 3.1788  -> air
+  S4: R=   29.3191  t= 3.5031  -> N-LASF9
+  S5: R=  -58.6354  t=   20.3  -> air
+  sigma (geo, px) centre/edge/corner = 6.329/6.219/11.933  defocus 132.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/2.4  stop=front at z=-0.0 mm (dia 12.5 mm)
+  S1: R=   14.8046  t= 7.3122  -> N-BAK4
+  S2: R=   -9.8489  t= 4.7095  -> N-F2
+  S3: R=   14.4278  t= 2.4936  -> air
+  S4: R=   48.0904  t= 2.9582  -> N-LASF9
+  S5: R=   -33.282  t=  20.17  -> air
+  sigma (geo, px) centre/edge/corner = 1.779/1.944/3.811  defocus 15.8 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/2.8  stop=front at z=-0.0 mm (dia 10.71 mm)
+  S1: R=   13.7731  t=    8.0  -> N-BAK4
+  S2: R=   -8.4346  t= 3.3028  -> N-F2
+  S3: R=   13.7861  t= 2.3167  -> air
+  S4: R=   61.9017  t= 2.4993  -> N-LASF9
+  S5: R=  -30.1919  t=  20.17  -> air
+  sigma (geo, px) centre/edge/corner = 1.523/1.454/3.146  defocus 9.2 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/3.2  stop=front at z=-0.0 mm (dia 9.38 mm)
+  S1: R=    12.821  t=    8.0  -> N-BAK4
+  S2: R=   -7.6023  t= 2.1776  -> N-F2
+  S3: R=     13.02  t= 2.4296  -> air
+  S4: R=   74.0455  t= 2.2325  -> N-LASF9
+  S5: R=  -28.9342  t=  20.44  -> air
+  sigma (geo, px) centre/edge/corner = 1.468/1.087/2.668  defocus -14.1 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/3.6  stop=front at z=-0.77 mm (dia 8.33 mm)
+  S1: R=    12.793  t= 7.5677  -> N-BAK4
+  S2: R=      -7.5  t=  2.522  -> N-F2
+  S3: R=   13.0569  t= 2.0928  -> air
+  S4: R=   84.0439  t= 2.0992  -> N-LASF9
+  S5: R=  -27.8313  t=  20.69  -> air
+  sigma (geo, px) centre/edge/corner = 1.338/0.898/2.349  defocus -19.8 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=30 f/4.0  stop=front at z=-1.8 mm (dia 7.5 mm)
+  S1: R=    12.455  t= 7.0663  -> N-BAK4
+  S2: R=      -7.5  t=   2.29  -> N-F2
+  S3: R=   12.6742  t= 2.0762  -> air
+  S4: R=   83.5397  t= 2.0417  -> N-LASF9
+  S5: R=  -27.9806  t=  21.13  -> air
+  sigma (geo, px) centre/edge/corner = 1.244/0.793/2.096  defocus -26.4 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/2.0  stop=front at z=-0.0 mm (dia 17.5 mm)
+  S1: R=   19.1601  t=    8.0  -> N-BAK4
+  S2: R=  -15.5925  t= 1.2149  -> N-F2
+  S3: R=    -88.34  t=    0.5  -> air
+  S4: R=   11.2908  t= 2.7608  -> N-LASF9
+  S5: R=      8.75  t=  21.45  -> air
+  sigma (geo, px) centre/edge/corner = 11.056/9.239/17.873  defocus 132.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/2.4  stop=front at z=-0.0 mm (dia 14.58 mm)
+  S1: R=   13.5564  t=    8.0  -> N-BAK4
+  S2: R=  -13.7549  t=    1.0  -> N-F2
+  S3: R=   12.4846  t= 3.1781  -> air
+  S4: R=   25.1729  t= 2.7525  -> N-LASF9
+  S5: R= -289.9506  t=  23.37  -> air
+  sigma (geo, px) centre/edge/corner = 6.403/6.23/12.657  defocus 158.4 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/2.8  stop=front at z=-0.0 mm (dia 12.5 mm)
+  S1: R=   14.5034  t=    8.0  -> N-BAK4
+  S2: R=  -10.5078  t= 4.7575  -> N-F2
+  S3: R=   13.2034  t= 2.4055  -> air
+  S4: R=   38.0748  t= 2.4875  -> N-LASF9
+  S5: R=  -53.6263  t=  22.88  -> air
+  sigma (geo, px) centre/edge/corner = 1.494/1.308/2.774  defocus -3.1 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/3.2  stop=front at z=-0.0 mm (dia 10.94 mm)
+  S1: R=   14.7175  t=    8.0  -> N-BAK4
+  S2: R=   -9.7023  t= 4.8364  -> N-F2
+  S3: R=   13.9282  t= 2.1233  -> air
+  S4: R=    50.122  t= 2.2237  -> N-LASF9
+  S5: R=  -42.2775  t=   23.3  -> air
+  sigma (geo, px) centre/edge/corner = 1.288/0.969/2.335  defocus -14.1 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/3.6  stop=front at z=-0.0 mm (dia 9.72 mm)
+  S1: R=   13.8892  t=    8.0  -> N-BAK4
+  S2: R=   -9.0087  t= 3.8696  -> N-F2
+  S3: R=   13.1967  t= 2.2636  -> air
+  S4: R=   49.6122  t= 2.0508  -> N-LASF9
+  S5: R=  -43.5378  t=  23.49  -> air
+  sigma (geo, px) centre/edge/corner = 1.18/0.779/2.028  defocus -21.8 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=35 f/4.0  stop=front at z=-0.0 mm (dia 8.75 mm)
+  S1: R=   13.6229  t=    8.0  -> N-BAK4
+  S2: R=     -8.75  t= 3.7405  -> N-F2
+  S3: R=   12.8881  t= 2.2331  -> air
+  S4: R=   46.1684  t= 1.9425  -> N-LASF9
+  S5: R=  -46.4171  t=   23.4  -> air
+  sigma (geo, px) centre/edge/corner = 1.104/0.636/1.811  defocus -28.6 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/2.0  stop=front at z=-0.0 mm (dia 20.0 mm)
+  S1: R=   21.0334  t=    1.5  -> N-BAK4
+  S2: R=   24.6311  t= 3.8306  -> N-F2
+  S3: R= 2520.2611  t=    0.5  -> air
+  S4: R=   16.6765  t= 7.9168  -> N-LASF9
+  S5: R=      10.0  t=  19.21  -> air
+  sigma (geo, px) centre/edge/corner = 18.436/17.518/27.478  defocus 132.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/2.4  stop=front at z=-0.0 mm (dia 16.67 mm)
+  S1: R=   18.7998  t=    8.0  -> N-BAK4
+  S2: R=  -13.2859  t=    1.0  -> N-F2
+  S3: R=  -70.7533  t=    0.5  -> air
+  S4: R=   16.2053  t= 4.8971  -> N-LASF9
+  S5: R=      10.0  t=  21.98  -> air
+  sigma (geo, px) centre/edge/corner = 8.563/7.628/14.62  defocus 158.4 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/2.8  stop=front at z=-0.0 mm (dia 14.29 mm)
+  S1: R=    18.255  t= 7.3166  -> N-BAK4
+  S2: R=  -10.1413  t= 4.7103  -> N-F2
+  S3: R=  -38.6574  t= 2.7625  -> air
+  S4: R=   15.2548  t=    1.5  -> N-LASF9
+  S5: R=      10.0  t=   22.9  -> air
+  sigma (geo, px) centre/edge/corner = 3.48/3.949/6.955  defocus 138.6 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/3.2  stop=front at z=-0.08 mm (dia 12.5 mm)
+  S1: R=   18.8114  t=    8.0  -> N-BAK4
+  S2: R=     -10.0  t=    6.0  -> N-F2
+  S3: R=  -43.0153  t= 1.9341  -> air
+  S4: R=   14.1942  t=    1.5  -> N-LASF9
+  S5: R=      10.0  t=  23.91  -> air
+  sigma (geo, px) centre/edge/corner = 2.208/2.258/3.972  defocus 68.6 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/3.6  stop=front at z=-0.0 mm (dia 11.11 mm)
+  S1: R=   14.4232  t=    8.0  -> N-BAK4
+  S2: R=  -10.8834  t= 5.2073  -> N-F2
+  S3: R=   12.4986  t= 1.9296  -> air
+  S4: R=   31.7103  t= 2.0123  -> N-LASF9
+  S5: R= -111.7272  t=  26.05  -> air
+  sigma (geo, px) centre/edge/corner = 1.015/0.796/1.836  defocus -5.9 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=40 f/4.0  stop=front at z=-0.0 mm (dia 10.0 mm)
+  S1: R=   15.1646  t=    8.0  -> N-BAK4
+  S2: R=  -10.6495  t=  5.848  -> N-F2
+  S3: R=   13.5773  t= 1.9657  -> air
+  S4: R=   38.8062  t= 1.9257  -> N-LASF9
+  S5: R=   -72.385  t=  26.33  -> air
+  sigma (geo, px) centre/edge/corner = 1.083/0.534/1.562  defocus -46.2 um  meets_spec=True
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/2.0  stop=front at z=-0.0 mm (dia 22.5 mm)
+  S1: R=   18.5159  t= 1.5031  -> N-BAK4
+  S2: R=   19.9581  t=    6.0  -> N-F2
+  S3: R=-2698.7785  t=18.8182  -> air
+  S4: R=  -11.4396  t=    1.5  -> N-LASF9
+  S5: R=  -32.6732  t=   3.39  -> air
+  sigma (geo, px) centre/edge/corner = 29.84/30.711/40.424  defocus 132.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/2.4  stop=front at z=-0.0 mm (dia 18.75 mm)
+  S1: R=   20.5874  t=    1.5  -> N-BAK4
+  S2: R=   24.2557  t= 3.8189  -> N-F2
+  S3: R= -201.0127  t=12.3764  -> air
+  S4: R=   17.4754  t=    1.5  -> N-LASF9
+  S5: R=     11.25  t=  15.66  -> air
+  sigma (geo, px) centre/edge/corner = 19.272/18.928/29.014  defocus 158.4 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/2.8  stop=front at z=-0.0 mm (dia 16.07 mm)
+  S1: R=   19.4571  t=    8.0  -> N-BAK4
+  S2: R=  -11.6113  t=    1.0  -> N-F2
+  S3: R=  -44.6785  t=  7.492  -> air
+  S4: R=   20.0568  t=    1.5  -> N-LASF9
+  S5: R=     11.25  t=  19.89  -> air
+  sigma (geo, px) centre/edge/corner = 8.157/7.635/14.773  defocus 184.8 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/3.2  stop=front at z=-0.0 mm (dia 14.06 mm)
+  S1: R=    19.066  t= 6.2358  -> N-BAK4
+  S2: R=    -11.25  t=    1.0  -> N-F2
+  S3: R=  -55.1447  t= 5.8899  -> air
+  S4: R=   17.3679  t=    1.5  -> N-LASF9
+  S5: R=     11.25  t=  25.61  -> air
+  sigma (geo, px) centre/edge/corner = 3.985/3.903/9.196  defocus 211.2 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/3.6  stop=front at z=-0.0 mm (dia 12.5 mm)
+  S1: R=   19.9285  t= 4.8981  -> N-BAK4
+  S2: R=    -11.25  t= 4.1537  -> N-F2
+  S3: R=  -49.0193  t= 5.2245  -> air
+  S4: R=   17.0472  t=    1.5  -> N-LASF9
+  S5: R=     11.25  t=  26.38  -> air
+  sigma (geo, px) centre/edge/corner = 2.681/2.834/6.167  defocus 164.3 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=45 f/4.0  stop=front at z=-0.0 mm (dia 11.25 mm)
+  S1: R=   20.6155  t= 4.0574  -> N-BAK4
+  S2: R=    -11.25  t=    6.0  -> N-F2
+  S3: R=  -47.7826  t= 4.6244  -> air
+  S4: R=   16.4541  t=    1.5  -> N-LASF9
+  S5: R=     11.25  t=  27.49  -> air
+  sigma (geo, px) centre/edge/corner = 1.999/2.004/4.216  defocus 110.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/2.0  stop=front at z=-0.0 mm (dia 25.0 mm)
+  S1: R=   19.3045  t= 2.7124  -> N-BAK4
+  S2: R=   24.0186  t= 5.9362  -> N-F2
+  S3: R= -363.3182  t=18.5323  -> air
+  S4: R=  -28.2423  t=    1.5  -> N-LASF9
+  S5: R=    28.747  t=   1.93  -> air
+  sigma (geo, px) centre/edge/corner = 42.781/40.152/52.65  defocus 132.0 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/2.4  stop=front at z=-0.0 mm (dia 20.83 mm)
+  S1: R=   18.4253  t= 1.5002  -> N-BAK4
+  S2: R=   19.6141  t= 5.7644  -> N-F2
+  S3: R=  457.4846  t=   20.0  -> air
+  S4: R=     -12.5  t=    1.5  -> N-LASF9
+  S5: R=  -82.0937  t=   4.07  -> air
+  sigma (geo, px) centre/edge/corner = 23.477/23.673/32.4  defocus 158.4 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/2.8  stop=front at z=-0.0 mm (dia 17.86 mm)
+  S1: R=   19.7589  t=    8.0  -> N-BAK4
+  S2: R=  -14.9204  t=    1.0  -> N-F2
+  S3: R=  -55.3708  t=11.7774  -> air
+  S4: R=   32.5085  t=    1.5  -> N-LASF9
+  S5: R=      12.5  t=  14.23  -> air
+  sigma (geo, px) centre/edge/corner = 16.003/14.756/25.028  defocus 184.8 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/3.2  stop=front at z=-0.0 mm (dia 15.62 mm)
+  S1: R=   19.8252  t= 6.9296  -> N-BAK4
+  S2: R=     -12.5  t=    1.0  -> N-F2
+  S3: R=  -48.5753  t= 9.7374  -> air
+  S4: R=   27.6136  t=    1.5  -> N-LASF9
+  S5: R=      12.5  t=  19.82  -> air
+  sigma (geo, px) centre/edge/corner = 8.793/8.373/15.393  defocus 211.2 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/3.6  stop=front at z=-0.0 mm (dia 13.89 mm)
+  S1: R=   20.3437  t= 5.4339  -> N-BAK4
+  S2: R=     -12.5  t=    1.0  -> N-F2
+  S3: R=   -53.535  t= 9.3348  -> air
+  S4: R=   23.0163  t=    1.5  -> N-LASF9
+  S5: R=      12.5  t=  23.77  -> air
+  sigma (geo, px) centre/edge/corner = 5.276/5.314/10.609  defocus 237.6 um  meets_spec=False
+
+doublet_singlet  N-BAK4/N-F2/N-LASF9  EFL=50 f/4.0  stop=front at z=-0.0 mm (dia 12.5 mm)
+  S1: R=   20.5349  t= 4.4818  -> N-BAK4
+  S2: R=     -12.5  t=    1.0  -> N-F2
+  S3: R=  -60.6977  t= 8.6936  -> air
+  S4: R=   20.5178  t=    1.5  -> N-LASF9
+  S5: R=      12.5  t=  27.05  -> air
+  sigma (geo, px) centre/edge/corner = 3.233/3.594/7.993  defocus 264.0 um  meets_spec=False

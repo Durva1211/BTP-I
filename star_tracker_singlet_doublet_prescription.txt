@@ -1,0 +1,287 @@
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/2.0  stop=0 at z=9.84 mm (dia 9.41 mm)
+  S1: R=   12.4554  t= 4.5314  -> N-LAK14
+  S2: R=   15.8083  t= 6.0945  -> air
+  S3: R=   40.3019  t= 5.1789  -> N-BK7
+  S4: R=   -6.7691  t= 5.6939  -> N-SF11
+  S5: R=  -13.2803  t=  15.28  -> air
+  sigma (geo, px) centre/edge/corner = 1.946/2.758/5.1  defocus 122.1 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/2.4  stop=0 at z=9.22 mm (dia 8.19 mm)
+  S1: R=   11.9424  t= 4.1436  -> N-LAK14
+  S2: R=   13.4759  t= 5.8747  -> air
+  S3: R=   47.4015  t= 4.5448  -> N-BK7
+  S4: R=     -6.25  t= 5.4688  -> N-SF11
+  S5: R=  -11.9978  t=  17.79  -> air
+  sigma (geo, px) centre/edge/corner = 1.58/2.187/3.797  defocus 95.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/2.8  stop=0 at z=8.69 mm (dia 7.02 mm)
+  S1: R=   11.3273  t= 4.1189  -> N-LAK14
+  S2: R=   12.5064  t= 5.4834  -> air
+  S3: R=   41.5878  t=    3.6  -> N-BK7
+  S4: R=     -6.25  t= 5.6341  -> N-SF11
+  S5: R=  -12.3393  t=  18.03  -> air
+  sigma (geo, px) centre/edge/corner = 1.523/1.852/3.162  defocus 72.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/3.2  stop=0 at z=8.92 mm (dia 6.03 mm)
+  S1: R=    11.337  t= 4.6295  -> N-LAK14
+  S2: R=   12.2758  t= 4.9069  -> air
+  S3: R=   41.2203  t= 2.8018  -> N-BK7
+  S4: R=     -6.25  t=  5.465  -> N-SF11
+  S5: R=  -12.3512  t=  18.07  -> air
+  sigma (geo, px) centre/edge/corner = 1.492/1.706/2.613  defocus 38.7 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/3.6  stop=0 at z=8.65 mm (dia 5.32 mm)
+  S1: R=   11.1629  t= 4.7878  -> N-LAK14
+  S2: R=   12.0937  t= 4.4876  -> air
+  S3: R=   41.9556  t=  2.432  -> N-BK7
+  S4: R=     -6.25  t= 5.3467  -> N-SF11
+  S5: R=  -12.4437  t=  18.01  -> air
+  sigma (geo, px) centre/edge/corner = 1.501/1.55/2.261  defocus 4.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=25 f/4.0  stop=0 at z=8.32 mm (dia 4.77 mm)
+  S1: R=   10.9562  t= 4.8327  -> N-LAK14
+  S2: R=   11.9682  t= 4.1313  -> air
+  S3: R=   44.7478  t= 2.1783  -> N-BK7
+  S4: R=     -6.25  t= 5.1335  -> N-SF11
+  S5: R=  -12.5062  t=  17.96  -> air
+  sigma (geo, px) centre/edge/corner = 1.477/1.396/2.086  defocus -22.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/2.0  stop=0 at z=7.78 mm (dia 11.44 mm)
+  S1: R=   13.3919  t= 3.7026  -> N-LAK14
+  S2: R=   28.5414  t= 6.4644  -> air
+  S3: R=   -90.921  t=    8.0  -> N-BK7
+  S4: R=      -7.5  t=  1.983  -> N-SF11
+  S5: R=  -16.0551  t=  15.49  -> air
+  sigma (geo, px) centre/edge/corner = 2.783/3.927/7.188  defocus 70.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/2.4  stop=0 at z=10.65 mm (dia 8.99 mm)
+  S1: R=   13.4151  t= 6.1453  -> N-LAK14
+  S2: R=   18.0401  t= 6.0997  -> air
+  S3: R=   61.3231  t= 3.9955  -> N-BK7
+  S4: R=      -7.5  t= 5.5093  -> N-SF11
+  S5: R=    -16.33  t=  17.61  -> air
+  sigma (geo, px) centre/edge/corner = 1.732/2.317/4.056  defocus 66.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/2.8  stop=0 at z=11.16 mm (dia 8.0 mm)
+  S1: R=   14.2038  t= 6.5924  -> N-LAK14
+  S2: R=   15.9938  t= 5.6309  -> air
+  S3: R=   50.5587  t= 3.3878  -> N-BK7
+  S4: R=      -7.5  t=    6.0  -> N-SF11
+  S5: R=  -14.9395  t=   20.4  -> air
+  sigma (geo, px) centre/edge/corner = 1.535/1.626/2.593  defocus 44.7 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/3.2  stop=0 at z=11.51 mm (dia 6.88 mm)
+  S1: R=   14.1267  t= 7.1388  -> N-LAK14
+  S2: R=   15.3637  t= 4.9558  -> air
+  S3: R=   48.3014  t= 2.6624  -> N-BK7
+  S4: R=      -7.5  t=    6.0  -> N-SF11
+  S5: R=  -14.9439  t=  20.57  -> air
+  sigma (geo, px) centre/edge/corner = 1.523/1.446/2.112  defocus 12.3 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/3.6  stop=0 at z=11.15 mm (dia 6.09 mm)
+  S1: R=   13.7779  t= 7.1775  -> N-LAK14
+  S2: R=   14.9178  t= 4.5762  -> air
+  S3: R=   48.1256  t= 2.3348  -> N-BK7
+  S4: R=      -7.5  t=    6.0  -> N-SF11
+  S5: R=  -15.1044  t=  20.55  -> air
+  sigma (geo, px) centre/edge/corner = 1.492/1.296/1.791  defocus -15.8 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=30 f/4.0  stop=0 at z=10.85 mm (dia 5.47 mm)
+  S1: R=   13.4754  t=   7.17  -> N-LAK14
+  S2: R=   14.4875  t= 4.2977  -> air
+  S3: R=   47.8846  t= 2.1096  -> N-BK7
+  S4: R=      -7.5  t=    6.0  -> N-SF11
+  S5: R=  -15.2114  t=  20.57  -> air
+  sigma (geo, px) centre/edge/corner = 1.37/1.171/1.672  defocus -28.6 um  meets_spec=True
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/2.0  stop=0 at z=12.74 mm (dia 10.72 mm)
+  S1: R=    13.367  t= 7.0697  -> N-LAK14
+  S2: R=   24.7789  t= 6.8302  -> air
+  S3: R= -107.7352  t= 3.2217  -> N-BK7
+  S4: R=     -8.75  t=    1.0  -> N-SF11
+  S5: R=  -23.3822  t=  15.76  -> air
+  sigma (geo, px) centre/edge/corner = 8.067/8.247/16.368  defocus 132.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/2.4  stop=0 at z=12.88 mm (dia 9.26 mm)
+  S1: R=   13.6601  t= 5.0235  -> N-LAK14
+  S2: R=   24.8965  t= 8.6556  -> air
+  S3: R=-1794.9887  t= 2.8603  -> N-BK7
+  S4: R=     -8.75  t= 3.3751  -> N-SF11
+  S5: R=  -22.7745  t=  17.85  -> air
+  sigma (geo, px) centre/edge/corner = 3.535/4.216/8.487  defocus 106.9 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/2.8  stop=0 at z=13.34 mm (dia 8.04 mm)
+  S1: R=   13.8386  t=    8.0  -> N-LAK14
+  S2: R=   19.0217  t= 5.9038  -> air
+  S3: R=   62.2458  t= 2.6488  -> N-BK7
+  S4: R=     -8.75  t=  5.536  -> N-SF11
+  S5: R=  -23.0902  t=  18.52  -> air
+  sigma (geo, px) centre/edge/corner = 2.187/2.556/4.953  defocus 66.2 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/3.2  stop=0 at z=12.68 mm (dia 7.48 mm)
+  S1: R=   14.0467  t=    8.0  -> N-LAK14
+  S2: R=   16.6707  t=  5.246  -> air
+  S3: R=   51.0583  t= 2.5056  -> N-BK7
+  S4: R=     -8.75  t=    6.0  -> N-SF11
+  S5: R=  -20.5395  t=   21.0  -> air
+  sigma (geo, px) centre/edge/corner = 1.598/1.687/3.072  defocus 37.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/3.6  stop=0 at z=11.98 mm (dia 7.03 mm)
+  S1: R=   14.7818  t=    8.0  -> N-LAK14
+  S2: R=   16.2892  t= 4.6013  -> air
+  S3: R=   59.5873  t= 2.3247  -> N-BK7
+  S4: R=     -8.75  t=    6.0  -> N-SF11
+  S5: R=   -18.296  t=  23.49  -> air
+  sigma (geo, px) centre/edge/corner = 1.503/1.181/1.91  defocus 2.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=35 f/4.0  stop=0 at z=12.63 mm (dia 6.36 mm)
+  S1: R=    15.891  t=    8.0  -> N-LAK14
+  S2: R=   18.6943  t= 5.2997  -> air
+  S3: R=   93.1604  t= 2.0716  -> N-BK7
+  S4: R=     -8.75  t=    6.0  -> N-SF11
+  S5: R=  -17.4928  t=  24.12  -> air
+  sigma (geo, px) centre/edge/corner = 1.366/1.023/1.44  defocus -17.6 um  meets_spec=True
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/2.0  stop=0 at z=12.51 mm (dia 12.51 mm)
+  S1: R=   13.8589  t= 7.6827  -> N-LAK14
+  S2: R=   27.2987  t= 4.8237  -> air
+  S3: R=   12.4614  t= 4.5205  -> N-BK7
+  S4: R=   -14.153  t=    1.0  -> N-SF11
+  S5: R=   14.8385  t=  14.01  -> air
+  sigma (geo, px) centre/edge/corner = 15.166/13.784/26.194  defocus 132.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/2.4  stop=0 at z=13.16 mm (dia 10.12 mm)
+  S1: R=   13.4974  t=    6.2  -> N-LAK14
+  S2: R=   25.3619  t= 7.4958  -> air
+  S3: R=   69.3106  t= 3.0832  -> N-BK7
+  S4: R=     -10.0  t=    1.0  -> N-SF11
+  S5: R=  -75.7533  t=  18.33  -> air
+  sigma (geo, px) centre/edge/corner = 7.021/7.183/14.183  defocus 158.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/2.8  stop=0 at z=13.04 mm (dia 9.13 mm)
+  S1: R=   13.8621  t= 4.4828  -> N-LAK14
+  S2: R=   25.6208  t= 9.2616  -> air
+  S3: R=  344.4987  t= 2.5039  -> N-BK7
+  S4: R=     -10.0  t= 1.8623  -> N-SF11
+  S5: R=  -34.4731  t=  21.06  -> air
+  sigma (geo, px) centre/edge/corner = 3.937/4.541/9.039  defocus 144.8 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/3.2  stop=0 at z=13.17 mm (dia 8.09 mm)
+  S1: R=   14.0981  t= 3.8009  -> N-LAK14
+  S2: R=   26.3439  t=10.1048  -> air
+  S3: R= 1108.1653  t= 2.2086  -> N-BK7
+  S4: R=     -10.0  t= 3.6567  -> N-SF11
+  S5: R=  -30.5448  t=   21.7  -> air
+  sigma (geo, px) centre/edge/corner = 2.631/3.126/6.002  defocus 88.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/3.6  stop=0 at z=13.75 mm (dia 7.1 mm)
+  S1: R=   14.2814  t=    8.0  -> N-LAK14
+  S2: R=   20.6185  t= 6.3888  -> air
+  S3: R=   92.7029  t= 2.0615  -> N-BK7
+  S4: R=     -10.0  t= 5.3985  -> N-SF11
+  S5: R=  -30.1064  t=  21.43  -> air
+  sigma (geo, px) centre/edge/corner = 2.016/2.328/4.217  defocus 55.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=40 f/4.0  stop=0 at z=13.28 mm (dia 6.66 mm)
+  S1: R=   14.3275  t=    8.0  -> N-LAK14
+  S2: R=   18.7376  t= 5.9177  -> air
+  S3: R=   78.4681  t= 1.9695  -> N-BK7
+  S4: R=     -10.0  t= 5.6841  -> N-SF11
+  S5: R=  -26.9683  t=  23.14  -> air
+  sigma (geo, px) centre/edge/corner = 1.642/1.736/3.06  defocus 15.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/2.0  stop=0 at z=10.89 mm (dia 15.15 mm)
+  S1: R=   14.6535  t= 7.8078  -> N-LAK14
+  S2: R=   43.5676  t= 3.0789  -> air
+  S3: R=   15.0279  t= 6.4546  -> N-BK7
+  S4: R=  -14.4235  t=    1.0  -> N-SF11
+  S5: R=     11.25  t=  13.12  -> air
+  sigma (geo, px) centre/edge/corner = 22.166/21.074/35.464  defocus 132.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/2.4  stop=0 at z=12.62 mm (dia 11.57 mm)
+  S1: R=    13.397  t= 6.8892  -> N-LAK14
+  S2: R=   25.0447  t= 5.7317  -> air
+  S3: R=     11.25  t=  4.602  -> N-BK7
+  S4: R=    -11.25  t=    1.0  -> N-SF11
+  S5: R=   12.5922  t=  16.04  -> air
+  sigma (geo, px) centre/edge/corner = 9.215/9.475/17.458  defocus 158.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/2.8  stop=0 at z=13.4 mm (dia 9.73 mm)
+  S1: R=    13.528  t= 5.5594  -> N-LAK14
+  S2: R=   25.5402  t= 7.8439  -> air
+  S3: R=   19.0117  t=  3.263  -> N-BK7
+  S4: R=    -11.25  t=    1.0  -> N-SF11
+  S5: R=   34.9949  t=  19.97  -> air
+  sigma (geo, px) centre/edge/corner = 6.103/6.6/12.779  defocus 184.8 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/3.2  stop=0 at z=13.39 mm (dia 8.79 mm)
+  S1: R=   13.8443  t= 4.3547  -> N-LAK14
+  S2: R=    26.284  t= 9.4709  -> air
+  S3: R=   39.8633  t= 2.4302  -> N-BK7
+  S4: R=    -11.25  t=    1.0  -> N-SF11
+  S5: R=-1534.9171  t=  22.91  -> air
+  sigma (geo, px) centre/edge/corner = 4.08/4.878/9.331  defocus 181.3 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/3.6  stop=0 at z=13.31 mm (dia 8.08 mm)
+  S1: R=   14.3399  t= 3.5735  -> N-LAK14
+  S2: R=   27.5377  t= 10.448  -> air
+  S3: R=  363.5088  t=  2.036  -> N-BK7
+  S4: R=    -11.25  t=  1.075  -> N-SF11
+  S5: R=   -48.057  t=  24.97  -> air
+  sigma (geo, px) centre/edge/corner = 3.02/3.697/6.894  defocus 132.7 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=45 f/4.0  stop=0 at z=13.3 mm (dia 7.33 mm)
+  S1: R=   14.3489  t= 3.2014  -> N-LAK14
+  S2: R=   27.4469  t=10.8529  -> air
+  S3: R=-12964.782  t= 1.8537  -> N-BK7
+  S4: R=    -11.25  t= 2.5337  -> N-SF11
+  S5: R=  -41.5463  t=  25.21  -> air
+  sigma (geo, px) centre/edge/corner = 2.345/2.925/5.25  defocus 85.8 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/2.0  stop=0 at z=8.77 mm (dia 19.39 mm)
+  S1: R=    17.457  t= 6.8744  -> N-LAK14
+  S2: R=   86.4079  t= 14.283  -> air
+  S3: R=    33.142  t=  1.571  -> N-BK7
+  S4: R=  184.0841  t=    1.0  -> N-SF11
+  S5: R=   12.5002  t=   6.56  -> air
+  sigma (geo, px) centre/edge/corner = 42.62/40.02/59.264  defocus 132.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/2.4  stop=0 at z=11.6 mm (dia 13.08 mm)
+  S1: R=   13.6373  t=    8.0  -> N-LAK14
+  S2: R=   36.2691  t= 3.5997  -> air
+  S3: R=    16.692  t= 4.9784  -> N-BK7
+  S4: R=     -12.5  t=    1.0  -> N-SF11
+  S5: R=      12.5  t=  15.84  -> air
+  sigma (geo, px) centre/edge/corner = 16.837/18.865/27.343  defocus 158.4 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/2.8  stop=0 at z=12.54 mm (dia 10.73 mm)
+  S1: R=   13.6878  t= 6.3495  -> N-LAK14
+  S2: R=   32.8094  t= 6.1917  -> air
+  S3: R=    13.191  t= 3.6803  -> N-BK7
+  S4: R=     -12.5  t=    1.0  -> N-SF11
+  S5: R=      12.5  t=  18.97  -> air
+  sigma (geo, px) centre/edge/corner = 7.94/9.375/14.651  defocus 184.8 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/3.2  stop=0 at z=13.33 mm (dia 9.35 mm)
+  S1: R=   13.8568  t=  5.157  -> N-LAK14
+  S2: R=   29.8302  t= 8.1772  -> air
+  S3: R=      12.5  t= 3.1353  -> N-BK7
+  S4: R=     -12.5  t=    1.0  -> N-SF11
+  S5: R=   14.4667  t=  21.27  -> air
+  sigma (geo, px) centre/edge/corner = 4.531/5.996/10.601  defocus 211.2 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/3.6  stop=0 at z=13.79 mm (dia 8.36 mm)
+  S1: R=   13.9116  t= 4.3785  -> N-LAK14
+  S2: R=    28.234  t=  9.407  -> air
+  S3: R=   16.4276  t= 2.5676  -> N-BK7
+  S4: R=     -12.5  t=    1.0  -> N-SF11
+  S5: R=   23.9983  t=  23.53  -> air
+  sigma (geo, px) centre/edge/corner = 3.785/4.96/8.867  defocus 200.0 um  meets_spec=False
+
+singlet_doublet  N-LAK14/N-BK7/N-SF11  EFL=50 f/4.0  stop=0 at z=13.65 mm (dia 7.71 mm)
+  S1: R=   14.1389  t= 3.7228  -> N-LAK14
+  S2: R=   28.8286  t=10.3006  -> air
+  S3: R=    28.739  t= 2.1004  -> N-BK7
+  S4: R=     -12.5  t=    1.0  -> N-SF11
+  S5: R=   62.0931  t=  25.45  -> air
+  sigma (geo, px) centre/edge/corner = 3.178/4.13/7.213  defocus 160.6 um  meets_spec=False
